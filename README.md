@@ -1,3 +1,3 @@
 # fiverr
 
-React Fiverr | React UI + SCSS
+React Fiverr App | React UI + SCSS
